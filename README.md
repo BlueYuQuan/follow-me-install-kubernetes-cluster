@@ -1,4 +1,5 @@
 # 和我一步步部署 kubernetes 集群
+## 搭建企业级安全认证的集群，如果仅用于平时实验，建议不要搭建认证的！
 
 ![dashboard-home](./images/dashboard-home.png)
 
